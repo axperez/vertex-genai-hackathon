@@ -1,0 +1,16 @@
+google-cloud-aiplatform==1.30.1
+langchain==0.0.268
+shapely<2.0.0
+pandas
+seaborn
+scikit-learn
+python-Levenshtein
+fuzzywuzzy
+unstructured==0.7.5
+pdf2image==1.16.3
+pytesseract==0.3.10
+pdfminer.six
+tensorflow_hub==0.13.0
+tensorflow_text==2.12.1
+typing-extensions==4.6.0
+db-dtypes
